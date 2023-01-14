@@ -3,8 +3,11 @@
 <h3 align="center">A determined, productive, and aspiring Back-End Java developer with a passion for creative solutions and innovative problem-solving skills.</h3>
 <img align="right" alt="Coding" width="400" src="https://hack.codingblocks.com/_nuxt/img/maingif.1646021.gif">
 
-
+<!-- profile visit section -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitvaghamshi&label=Profile%20views&color=0e75b6&style=flat" alt="amitvaghamshi" /> </p>
+
+
+<!-- About Me section -->
 
 - 🌱 I’m currently learning **sprigboot**
 
