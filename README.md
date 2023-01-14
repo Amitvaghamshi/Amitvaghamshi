@@ -15,8 +15,8 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/180tKLVCyZoBfH38uJiqa5jXQ1sEL05UR/view?usp=share_link](https://drive.google.com/file/d/180tKLVCyZoBfH38uJiqa5jXQ1sEL05UR/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/amitvaghamshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amitvaghamshi" height="30" width="40" /></a>
+<p align="center">
+<a href="https://linkedin.com/in/amitvaghamshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amitvaghamshi" height="70" width="70" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
