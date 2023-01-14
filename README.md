@@ -11,9 +11,9 @@
 
 - 🌱 I’m currently learning **SprigBoot**
 
-- 👨‍💻 All of my projects are available at [https://amitvaghamshi.github.io/](https://amitvaghamshi.github.io/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://amitvaghamshi.github.io/)
 
-- Check out my Resume [https://drive.google.com/file/d/180tKLVCyZoBfH38uJiqa5jXQ1sEL05UR/view?usp=share_link](https://drive.google.com/file/d/180tKLVCyZoBfH38uJiqa5jXQ1sEL05UR/view?usp=share_link)
+- Check out my Resume [Resume](https://drive.google.com/file/d/180tKLVCyZoBfH38uJiqa5jXQ1sEL05UR/view?usp=share_link)
 
 - 💬 Ask me about **Java ,SpringBoot ,MySql ,Html,Css,JavaScript**
 
