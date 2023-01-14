@@ -14,7 +14,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/180tKLVCyZoBfH38uJiqa5jXQ1sEL05UR/view?usp=share_link](https://drive.google.com/file/d/180tKLVCyZoBfH38uJiqa5jXQ1sEL05UR/view?usp=share_link)
 
-<h2 align="left">Connect with me:</h2>
+<h1 align="left">Connect with me:</h1>
 <p align="center">
 <a href="https://linkedin.com/in/amitvaghamshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amitvaghamshi" height="50" width="50" /></a>
 </p>
