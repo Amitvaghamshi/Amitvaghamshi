@@ -44,21 +44,14 @@
 
 
 <!-- Bottom 3 statatics -->
-<!-- ![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amitvaghamshi&show_icons=true&theme=dark&count_private=true)
+![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amitvaghamshi&show_icons=true&theme=dark&count_private=true)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Amitvaghamshi&theme=neon-dark)](https://git.io/streak-stats)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amitvaghamshi&show_icons=true&locale=en&layout=compact&theme=dark" alt="amitvaghamshi" /></p>
- -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amitvaghamshi&show_icons=true&locale=en&layout=compact&theme=dark" alt="amitvaghamshi" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=amitvaghamshi&show_icons=true&locale=en"&theme=dark alt="amitvaghamshi" /></p>
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=amitvaghamshi&"&theme=dark alt="amitvaghamshi" /></p>
-
-<!-- <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
- -->
+<!-- <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">-->
 
 
 <img align="right" alt="Coding" width="100%" height="200px" src="https://i.pinimg.com/originals/13/44/cd/1344cdb8afc60644ab100307da6c3487.gif">
