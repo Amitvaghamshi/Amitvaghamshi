@@ -43,7 +43,7 @@
 
 
 
-<!-- Bottom 3 statatics -->
+<!-- Bottom 3 statatics  -->
 ![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amitvaghamshi&show_icons=true&theme=dark&count_private=true)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Amitvaghamshi&theme=neon-dark)](https://git.io/streak-stats)
