@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://amitvaghamshi.github.io/)
 
-- Check out my Resume [Resume](https://drive.google.com/file/d/180tKLVCyZoBfH38uJiqa5jXQ1sEL05UR/view?usp=share_link)
+- Check out my Resume [Resume](https://drive.google.com/file/d/12O8Qu0Gn5T8IhxBVKWdrfsNM5k0MPVcG/view?usp=sharing)
 
 - 💬 Ask me about **Java ,SpringBoot ,MySql ,Html,Css,JavaScript**
 
